@@ -1,0 +1,22 @@
+{
+  "name": "dookie",
+  "version": "0.0.0",
+  "description": "REPL for Google Music playback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dogeon": "1.0.0",
+    "http-status": "latest",
+    "lame": "1.1.0",
+    "mustache": "0.8.2",
+    "orchestrator": "0.3.6",
+    "playmusic": "0.2.0",
+    "request": "latest",
+    "speaker": "0.2.1",
+    "underscore": "1.5.2"
+  },
+  "author": "Valeri Karpov",
+  "license": "ISC"
+}
